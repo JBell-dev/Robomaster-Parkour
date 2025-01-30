@@ -1,5 +1,3 @@
-#Note:
-
 The main file to run is maincontrol.py
 the other two files are the construction parts for our final maincontrol implementation. 
 
@@ -10,6 +8,8 @@ in addition, the bridge should be run on parallel:
 -> ros2 launch robomaster_ros main.launch device:="tcp:host=localhost;port=33333" simulation:=True name:=RoboMaster
 
 #Video:
+
+https://www.youtube.com/watch?v=qOTCqvcnETY
 
 We added in the video folder the final main video of the implementation. In addition, here you can find extra videos of it:
 
